@@ -4,19 +4,19 @@
 
 @font-face {
   font-family: "Buletproof";
-  src: url("BulletproofDecoBb-r539.ttf");
+  src: url("capstone3\fonts\bulletproofDecoBb-r539.ttf");
 }
 @font-face {
   font-family: "Chavier";
-  src: url("capstone2's/Images/Fonts/ChavlerExtruderightDemo-lxM9d.otf");
+  src: url("capstone3\fonts\chavlerExtruderightDemo-lxM9d.otf");
 }
 @font-face {
   font-family: "Overmind";
-  src: url("capstone2's/Fonts/OvermindDemons-GO10y.ttf");
+  src: url("capstone3/Fonts/OvermindDemons-GO10y.ttf");
 }
 @font-face {
   font-family: "Rebolt";
-  src: url("capstone2's/Fonts/ReboltDemoRegular-8OeRD.otf");
+  src: url("capstone3\fontsReboltDemoRegular-8OeRD.otf");
   .mixIt {
     background-color: rgb(41, 76, 105);
     border: 3px solid green;
